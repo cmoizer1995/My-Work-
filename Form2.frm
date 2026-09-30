@@ -893,6 +893,36 @@ Begin {C62A69F0-16DC-11CE-9E98-00AA00574A4F} Form2
          Strikethrough = 0 'False
       EndProperty
    End
+   Begin MSForms.Label Copyright1
+      Caption = "© Connor Moizer · v1 · 30/09/2026"
+      Tag = "CM_COPYRIGHT:%7B%22o%22%3A%22Connor%20Moizer%22%2C%22v%22%3A%221%22%2C%22i%22%3Atrue%2C%22d%22%3A%2230%2F09%2F2026%22%2C%22l%22%3A%5B%5D%7D"
+      Height = 1140
+      Left = 2640
+      Top = 480
+      Width = 4500
+      BackColor = &H00F0F0F0&
+      ForeColor = &H00404040&
+      BorderColor = &H00808080&
+      BackStyle = 0
+      BorderStyle = 0
+      SpecialEffect = 0
+      TextAlign = 1
+      WordWrap = -1 'True
+      TabIndex = 31
+      TabStop = 0 'False
+      ControlTipText = "Copyright notice · double-click to edit"
+      Enabled = -1 'True
+      Visible = -1 'True
+      BeginProperty Font
+         Name = "Arial"
+         Size = 8
+         Charset = 0
+         Weight = 400
+         Underline = 0 'False
+         Italic = 0 'False
+         Strikethrough = 0 'False
+      EndProperty
+   End
 End
 Attribute VB_Name = "Form2"
 Attribute VB_GlobalNameSpace = False
