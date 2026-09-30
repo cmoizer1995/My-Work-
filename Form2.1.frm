@@ -893,6 +893,35 @@ Begin {C62A69F0-16DC-11CE-9E98-00AA00574A4F} Form2
          Strikethrough = 0 'False
       EndProperty
    End
+   Begin MSForms.Label DateTime1
+      Caption = "30/09/2026 23:16:27"
+      Tag = "CM_DATETIME:%7B%22m%22%3A%22Live%22%2C%22d%22%3A%22DateTime%22%2C%22f%22%3A%22UKShort%22%2C%22s%22%3Atrue%2C%22v%22%3A%222026-09-30T23%3A16%3A23%22%7D"
+      Height = 450
+      Left = 4080
+      Top = 4080
+      Width = 2850
+      BackColor = &H00F0F0F0&
+      ForeColor = &H00000000&
+      BorderColor = &H00808080&
+      BackStyle = 1
+      BorderStyle = 1
+      SpecialEffect = 0
+      TextAlign = 1
+      WordWrap = -1 'True
+      TabIndex = 31
+      TabStop = -1 'True
+      Enabled = -1 'True
+      Visible = -1 'True
+      BeginProperty Font
+         Name = "Arial"
+         Size = 9
+         Charset = 0
+         Weight = 400
+         Underline = 0 'False
+         Italic = 0 'False
+         Strikethrough = 0 'False
+      EndProperty
+   End
 End
 Attribute VB_Name = "Form2"
 Attribute VB_GlobalNameSpace = False
