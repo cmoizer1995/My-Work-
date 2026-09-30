@@ -869,7 +869,7 @@ Begin {C62A69F0-16DC-11CE-9E98-00AA00574A4F} Form2
       Text = ""
       Height = 360
       Left = 5280
-      Top = 240
+      Top = 360
       Width = 2040
       BackColor = &H00F0F0F0&
       ForeColor = &H00000000&
