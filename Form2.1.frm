@@ -25,8 +25,8 @@ Begin {C62A69F0-16DC-11CE-9E98-00AA00574A4F} Form2
       Caption = "Go Home"
       Tag = "CM_CONTROL:%7B%22type%22%3A%22CommandButton%22%2C%22buttonActionType%22%3A%22None%22%2C%22buttonUrl%22%3A%22%22%2C%22buttonUrlTarget%22%3A%22New%20Tab%22%2C%22buttonHomeInput%22%3A%22%22%2C%22buttonHomeCurrency%22%3A%22GBP%22%2C%22buttonForeignOutput%22%3A%22%22%2C%22buttonForeignCurrency%22%3A%22USD%22%2C%22buttonRateUrl%22%3A%22%22%7D"
       Height = 420
-      Left = 2250
-      Top = 3900
+      Left = 960
+      Top = 3960
       Width = 1500
       BackColor = &H00F0F0F0&
       ForeColor = &H00000000&
@@ -886,6 +886,36 @@ Begin {C62A69F0-16DC-11CE-9E98-00AA00574A4F} Form2
       BeginProperty Font
          Name = "Arial"
          Size = 9
+         Charset = 0
+         Weight = 400
+         Underline = 0 'False
+         Italic = 0 'False
+         Strikethrough = 0 'False
+      EndProperty
+   End
+   Begin MSForms.Label Copyright1
+      Caption = "© Connor Moizer · v1 · 30/09/2026"
+      Tag = "CM_COPYRIGHT:%7B%22o%22%3A%22Connor%20Moizer%22%2C%22v%22%3A%221%22%2C%22i%22%3Atrue%2C%22d%22%3A%2230%2F09%2F2026%22%2C%22l%22%3A%5B%5D%7D"
+      Height = 480
+      Left = 2760
+      Top = 3840
+      Width = 3000
+      BackColor = &H00F0F0F0&
+      ForeColor = &H00404040&
+      BorderColor = &H00808080&
+      BackStyle = 0
+      BorderStyle = 0
+      SpecialEffect = 0
+      TextAlign = 1
+      WordWrap = -1 'True
+      TabIndex = 31
+      TabStop = 0 'False
+      ControlTipText = "Copyright notice · double-click to edit"
+      Enabled = -1 'True
+      Visible = -1 'True
+      BeginProperty Font
+         Name = "Arial"
+         Size = 8
          Charset = 0
          Weight = 400
          Underline = 0 'False
