@@ -278,7 +278,7 @@ Begin {C62A69F0-16DC-11CE-9E98-00AA00574A4F} Form2
    End
    Begin MSForms.CommandButton CommandButton1
       Caption = "Calculate"
-      Tag = "CM_CONTROL:%7B%22type%22%3A%22CommandButton%22%2C%22buttonActionType%22%3A%22Currency%20Converter%20%2B%20URL%22%2C%22buttonUrl%22%3A%22https%3A%2F%2Fwww.smartcurrencyexchange.com%2Flive-exchange-rates%2F%22%2C%22buttonUrlTarget%22%3A%22Same%20Window%22%2C%22buttonHomeInput%22%3A%22NumericTextBox1%22%2C%22buttonHomeCurrency%22%3A%22GBP%22%2C%22buttonForeignOutput%22%3A%22NumericTextBox2%22%2C%22buttonForeignCurrency%22%3A%22USD%22%2C%22buttonRateUrl%22%3A%22https%3A%2F%2Fv6.exchangerate-api.com%2Fv6%2F768fff319b9d84985e21886c%2Flatest%2Fgbp%22%7D"
+      Tag = "CM_CONTROL:%7B%22type%22%3A%22CommandButton%22%2C%22buttonActionType%22%3A%22Currency%20Converter%20%2B%20URL%22%2C%22buttonUrl%22%3A%22https%3A%2F%2Fwww.smartcurrencyexchange.com%2Flive-exchange-rates%2F%22%2C%22buttonUrlTarget%22%3A%22Same%20Window%22%2C%22buttonHomeInput%22%3A%22NumericTextBox1%22%2C%22buttonHomeCurrency%22%3A%22GBP%22%2C%22buttonForeignOutput%22%3A%22NumericTextBox2%22%2C%22buttonForeignCurrency%22%3A%22ComboBox%3AComboBox1%22%2C%22buttonRateUrl%22%3A%22https%3A%2F%2Fv6.exchangerate-api.com%2Fv6%2F768fff319b9d84985e21886c%2Flatest%2Fgbp%22%7D"
       Height = 360
       Left = 4200
       Top = 3240
