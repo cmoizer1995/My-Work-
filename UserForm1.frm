@@ -1,6 +1,6 @@
 VERSION 5.00
 Begin {C62A69F0-16DC-11CE-9E98-00AA00574A4F} UserForm1
-   Caption = "UserForm1"
+   Caption = "Connor Moizer"
    ClientHeight = 4500
    ClientLeft = 45
    ClientTop = 390
@@ -22,12 +22,12 @@ Begin {C62A69F0-16DC-11CE-9E98-00AA00574A4F} UserForm1
       Strikethrough = 0 'False
    EndProperty
    Begin MSForms.CommandButton OpenUserForm2
-      Caption = "Open Form2"
+      Caption = "Calculator - Sunday 4th Oct 2026"
       Tag = "CM_CONTROL:%7B%22type%22%3A%22FormLink%22%2C%22targetForm%22%3A%22UserForm2%22%2C%22autoFormInForm%22%3A1%7D"
-      Height = 480
+      Height = 360
       Left = 360
       Top = 360
-      Width = 1800
+      Width = 2880
       BackColor = &H00F0F0F0&
       ForeColor = &H00000000&
       BorderColor = &H00808080&
